@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test import-snapshots: import-snapshots 1`] = `
+
+import app from "@system.app";
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+import app from "D:\\\\GitLab\\\\plugin-transform-miai-hybrid\\\\mockjs\\\\mock@system.app.js";
+
+
+`;
+
+exports[`snapshot test require-snapshots: require-snapshots 1`] = `
+
+const test = require("@system.app");
+
+      ↓ ↓ ↓ ↓ ↓ ↓
+
+const test = require("D:\\\\GitLab\\\\plugin-transform-miai-hybrid\\\\mockjs\\\\mock@system.app.js")
+  .default;
+
+
+`;

@@ -1,0 +1,7 @@
+[
+  {
+    "module": "@system.app",
+    "name": "getInfo",
+    "since": "100000000"
+  }
+]

@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "moduleResolution": "node",
+        "target": "es6",
+        "module": "ES2015",
+        "jsx": "preserve"
+    },
+   
+
+}
