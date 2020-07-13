@@ -1,4 +1,7 @@
 # 快应用mock js-bridge
+
+## 在MIAI-FE前端团队实习的产物
+通过babel插件的形式代理快应用native包 以及进行api使用的静态分析
 ## 开发  
 npm run build    
 npm run watch   
